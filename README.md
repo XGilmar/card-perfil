@@ -7,6 +7,6 @@
 
 > **Primera tarjeta**
 
-<div align="center">
-<img align="center" width=280rem src="/assets/1.jpg"/>
+<div align="center" style="display: inline_block"><br>
+<img align="center" width=180rem src="/assets/1.jpg"/>
 </div>
