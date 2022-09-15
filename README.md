@@ -18,10 +18,13 @@
 </div><br>
 
 - `Descarga` **[aquí.](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/XGilmar/card-perfil/tree/main/tarjeta-1)**
+<br>
 
 > **Segunda tarjeta**
 
 <div align="center"><br>
 <img align="center" width=280rem src="/assets/2.jpg"/>
 </div><br>
+
+- `Descarga` **[aquí](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/XGilmar/card-perfil/tree/main/tarjeta-2)**
 
