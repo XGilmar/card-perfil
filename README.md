@@ -9,4 +9,10 @@
 
 <div align="center" style="display: inline_block"><br>
 <img align="center" width=180rem src="/assets/1.jpg"/>
-</div>
+</div><br>
+
+> **Segunda tarjeta**
+
+<div align="center" style="display: inline_block"><br>
+<img align="center" width=180rem src="/assets/2.jpg"/>
+</div><br>
