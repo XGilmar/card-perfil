@@ -17,7 +17,7 @@
 <img align="center" width=280rem src="/assets/1.jpg"/>
 </div><br>
 
-- Descarga [aquí](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/XGilmar/card-perfil/tree/main/tarjeta-1)
+- `Descarga` **[aquí.](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/XGilmar/card-perfil/tree/main/tarjeta-1)**
 
 > **Segunda tarjeta**
 
