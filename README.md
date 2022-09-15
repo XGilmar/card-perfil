@@ -7,4 +7,4 @@
 
 > **Primera tarjeta**
 
-![imagen](assets/1.jpg)
+<img align="center" width=180rem src="/assets/1.jpg"/>
