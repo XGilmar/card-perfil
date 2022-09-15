@@ -4,7 +4,8 @@
 </p><br>
 
 <div align="center">
-<img width=35rem src="icon/html.png"/>
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
 <img width=35rem src="icon/css.png"/>
 <img width=35rem src="icon/js.png"/>
 </div>
