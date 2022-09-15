@@ -7,12 +7,12 @@
 
 > **Primera tarjeta**
 
-<div align="center" style="display: inline_block"><br>
-<img align="center" width=180rem src="/assets/1.jpg"/>
+<div align="center"><br>
+<img align="center" width=280rem src="/assets/1.jpg"/>
 </div><br>
 
 > **Segunda tarjeta**
 
-<div align="center" style="display: inline_block"><br>
-<img align="center" width=180rem src="/assets/2.jpg"/>
+<div align="center"><br>
+<img align="center" width=280rem src="/assets/2.jpg"/>
 </div><br>
