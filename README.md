@@ -1,9 +1,9 @@
 <h2 align="center">Tarjetas de perfil</h2>
 <p align="center">
  Tarjetas personalizadas. Puedes bajarla y modificarla para tu propio uso de perfil.
-</p>
+</p><br>
 
-<h3 align="center">Capturas</h3>
+<h3 align="center">Capturas de imagen</h3>
 
 > **Primera tarjeta**
 
