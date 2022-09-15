@@ -1,6 +1,6 @@
 <h2 align="center">Tarjetas de perfil</h2>
 <p align="center">
- Tarjetas personalizadas para uso de perfil.
+ Tarjetas personalizadas. Puedes bajarla y modificarla para tu propio uso de perfil.
 </p>
 
 <h3 align="center">Capturas</h3>
